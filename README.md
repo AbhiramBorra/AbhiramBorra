@@ -1,8 +1,8 @@
 # Hi, I'm Abhiram 👋
 
-🎓 Master's student specializing in **Natural Language Processing**, **Machine Learning**, and **Data Science**
+🎓 Master's student @ UC Santa Cruz majoring in **Artificial Intelligence**
 
-🤖 Passionate about building AI systems that solve real-world problems — from clinical decision support to multilingual communication
+🤖 Passionate about building AI systems that solve real-world problems
 
 ---
 
@@ -31,11 +31,6 @@ Built **NewSense**, a style-converting translator app that goes beyond word-for-
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiramBorra&show_icons=true&theme=tokyonight)
-
----
 
 ## 📬 Let's Connect
 
