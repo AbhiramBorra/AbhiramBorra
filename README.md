@@ -15,8 +15,8 @@ A **local multi-agent AI architecture** designed for clinical decision support. 
 
 ## 🏆 Recent Ws
 
-### 🥇 NewSense — Hackathon Winner
-Built **NewSense**, a style-converting translator app that goes beyond word-for-word translation by adapting tone, register, and cultural nuance. Won a hackathon with this project that bridges language and communication style gaps across cultures.
+### 🥇 NewSense — Dumbathon Winner
+Built **NewSense**, a style-converting translator app that goes beyond word-for-word translation by adapting tone, register, and cultural nuance. Won a dumbathon with this project that gives a New Sense to your text.
 
 ---
 
