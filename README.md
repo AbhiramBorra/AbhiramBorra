@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Abhiram 👋
 
-<!--
-**AbhiramBorra/AbhiramBorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student specializing in **Natural Language Processing**, **Machine Learning**, and **Data Science**
 
-Here are some ideas to get you started:
+🤖 Passionate about building AI systems that solve real-world problems — from clinical decision support to multilingual communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Projects
+
+### 🏥 Med-Flow
+A **local multi-agent AI architecture** designed for clinical decision support. Med-Flow orchestrates multiple specialized AI agents that collaborate to assist healthcare professionals with diagnostics, treatment recommendations, and patient data analysis — all running locally to preserve privacy.
+
+---
+
+## 🏆 Recent Ws
+
+### 🥇 NewSense — Hackathon Winner
+Built **NewSense**, a style-converting translator app that goes beyond word-for-word translation by adapting tone, register, and cultural nuance. Won a hackathon with this project that bridges language and communication style gaps across cultures.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiramBorra&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Let's Connect
+
+- 💬 Ask me about NLP, multi-agent systems, or ML research
+- 🌱 Currently exploring: LLM fine-tuning, RAG pipelines, and agentic AI frameworks
